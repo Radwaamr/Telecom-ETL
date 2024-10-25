@@ -1,4 +1,4 @@
-# Telecom-SSIS-ETL
+# Telecom-ETL-SSIS
 
 ## Overview
 
